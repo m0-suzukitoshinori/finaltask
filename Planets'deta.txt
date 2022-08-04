@@ -1,8 +1,0 @@
-Mercury 3.70
-Venus 8.87
-Earth 9.81
-Mars 3.71
-Jupiter 24.79
-Saturn 10.4
-Uranus 8.87
-Neptune 11.15
